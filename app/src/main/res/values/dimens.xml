@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="skype_width">80dp</dimen>
+    <dimen name="corner_radius">40dp</dimen>
+</resources>

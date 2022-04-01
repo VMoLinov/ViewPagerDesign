@@ -1,7 +1,8 @@
-package ru.molinov.viewpagerdesign
+package ru.molinov.viewpagerdesign.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import ru.molinov.viewpagerdesign.R
 import ru.molinov.viewpagerdesign.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

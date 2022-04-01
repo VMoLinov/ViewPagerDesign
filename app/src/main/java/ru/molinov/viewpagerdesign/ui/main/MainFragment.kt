@@ -1,4 +1,4 @@
-package ru.molinov.viewpagerdesign
+package ru.molinov.viewpagerdesign.ui.main
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
+import ru.molinov.viewpagerdesign.ui.second.SecondFragment
 import ru.molinov.viewpagerdesign.databinding.FragmentMainBinding
+import ru.molinov.viewpagerdesign.ui.first.FirstFragment
 
 class MainFragment : Fragment() {
 

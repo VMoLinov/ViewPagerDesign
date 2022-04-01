@@ -3,9 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.main.MainActivity">
 
     <include
         android:id="@+id/tab_layout"
-        layout="@layout/view_pager" />
+        layout="@layout/view_pager"
+        android:elevation="10dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

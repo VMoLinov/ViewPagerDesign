@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ViewPagerDesign</string>
+    <string name="are_you_ready_for_exams">Are you ready for exams?</string>
+    <string name="classes">Classes</string>
+    <string name="homework">Homework</string>
+    <string name="image">image</string>
+    <string name="indicator">indicator</string>
+    <string name="no_description">No description</string>
+    <string name="header">Header</string>
 </resources>
